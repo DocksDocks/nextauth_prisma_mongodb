@@ -18,7 +18,9 @@ npx prisma db push
 ## Google 
 
 google callback urls:
+
 http://localhost:3000/api/auth/callback/google
+
 http://localhost:3000/auth/callback/google
 
 ## Documentation used:
