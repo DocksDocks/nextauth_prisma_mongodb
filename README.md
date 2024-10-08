@@ -1,5 +1,9 @@
 # NextAuth with MongoDB, Prisma and Google Provider project
 
+## Video explaining how to setup
+
+https://youtu.be/qNA_NGRAGLI
+
 ## .env 
 
 Configure the .env based on .env.example
